@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.0 — Public submission release
+
+- Repository made public.
+- MIT License finalized.
+- Pre-public release blockers removed.
+- README updated for initial Horticulturae submission.
+- Zenodo not used for initial submission.
+- Scientific scripts, numerical outputs, and figure-source values unchanged.
+
 ## 0.1.0-rc2
 
 - Consolidated accepted historical WGCNA execution, stage-specific software and matrix-branch provenance.

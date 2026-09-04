@@ -1,9 +1,7 @@
-# DRAFT: flow-style YAML using the JSON subset; no author identity is inferred.
-# TODO: confirmed authors, optional ORCID, repository URL and Dataset DOI.
-# TODO: manuscript DOI if available. Full CFF metadata validation awaits authors.
-{
-  "cff-version": "1.2.0",
-  "title": "Integrative Transcriptomics Identifies Reproducible Coexpression Programs across Grapevine Genotypes during Bud Dormancy Release",
-  "version": "0.1.0-rc2",
-  "message": "Please cite the associated manuscript and archived release when confirmed creators and identifiers are available. Creator and identifier fields remain TODO before public release."
-}
+# Authors will be added after confirmation by the author team.
+cff-version: 1.2.0
+title: "Integrative Transcriptomics Identifies Reproducible Coexpression Programs across Grapevine Genotypes during Bud Dormancy Release"
+version: 1.0.0
+repository-code: "https://github.com/zly0010/grapevine-bud-dormancy-transcriptomics"
+url: "https://github.com/zly0010/grapevine-bud-dormancy-transcriptomics"
+message: "Please cite the associated manuscript when available. Author metadata and manuscript DOI will be added after confirmation."
