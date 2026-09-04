@@ -1,0 +1,173 @@
+sample_id	sample_title	variety	time	replicate	qc_status	qc_reason	variety_full	time_factor	qc_A	qc_B	qc_C	PC1	PC2	PC3
+GSM3554450_D0R1VamuAligned.counts.txt.gz	Day0_Rep1_Vamu	Vamu	0	1	pass		Vitis amurensis PI588635	Day0	True	True	True	-66.5934282559304	-58.1443414560645	-32.7257710435094
+GSM3554452_D0R2VamuAligned.counts.txt.gz	Day0_Rep2_Vamu	Vamu	0	2	pass		Vitis amurensis PI588635	Day0	True	True	True	-56.9883285642148	-59.2798258614021	-27.1204231307588
+GSM3554455_D0R3VamuAligned.counts.txt.gz	Day0_Rep3_Vamu	Vamu	0	3	watch	library_size_lt_50pct_median;detected_genes_lt_85pct_median	Vitis amurensis PI588635	Day0	True	True	False	-68.8274335665022	-67.841362946224	-38.7617544649991
+GSM3554458_D0R5VamuAligned.counts.txt.gz	Day0_Rep5_Vamu	Vamu	0	5	pass		Vitis amurensis PI588635	Day0	True	True	True	-64.4366765824557	-58.4966218608365	-36.0961775742148
+GSM3554460_D1R1VamuAligned.counts.txt.gz	Day1_Rep1_Vamu	Vamu	1	1	pass		Vitis amurensis PI588635	Day1	True	True	True	-37.5910746646667	-33.544653594419	2.56479965597583
+GSM3554462_D1R2VamuAligned.counts.txt.gz	Day1_Rep2_Vamu	Vamu	1	2	pass		Vitis amurensis PI588635	Day1	True	True	True	-27.4120072260957	-37.9082104955991	8.04012854542446
+GSM3554464_D1R3VamuAligned.counts.txt.gz	Day1_Rep3_Vamu	Vamu	1	3	pass		Vitis amurensis PI588635	Day1	True	True	True	-37.3395576706111	-35.6766611635019	-2.90995810732724
+GSM3554466_D2R1VamuAligned.counts.txt.gz	Day2_Rep1_Vamu	Vamu	2	1	pass		Vitis amurensis PI588635	Day2	True	True	True	7.02697217292056	-18.2956099208591	26.8774264435112
+GSM3554468_D2R2VamuAligned.counts.txt.gz	Day2_Rep2_Vamu	Vamu	2	2	pass		Vitis amurensis PI588635	Day2	True	True	True	7.61225969374479	-21.5910762625496	29.2932597094261
+GSM3554470_D2R3VamuAligned.counts.txt.gz	Day2_Rep3_Vamu	Vamu	2	3	pass		Vitis amurensis PI588635	Day2	True	True	True	4.77090097605935	-23.1393263875436	24.6826909307139
+GSM3554472_D3R1VamuAligned.counts.txt.gz	Day3_Rep1_Vamu	Vamu	3	1	pass		Vitis amurensis PI588635	Day3	True	True	True	16.2599768499671	-14.5410784886166	31.3337937327369
+GSM3554474_D3R2VamuAligned.counts.txt.gz	Day3_Rep2_Vamu	Vamu	3	2	pass		Vitis amurensis PI588635	Day3	True	True	True	-10.3646916801481	-10.3332734581845	15.8081643621509
+GSM3554476_D3R3VamuAligned.counts.txt.gz	Day3_Rep3_Vamu	Vamu	3	3	pass		Vitis amurensis PI588635	Day3	True	True	True	20.5256192114282	-13.8873580035791	31.2935263355288
+GSM3554478_D4R1VamuAligned.counts.txt.gz	Day4_Rep1_Vamu	Vamu	4	1	pass		Vitis amurensis PI588635	Day4	True	True	True	41.3962146257151	-12.3233032704469	24.7597028617668
+GSM3554480_D4R3VamuAligned.counts.txt.gz	Day4_Rep3_Vamu	Vamu	4	3	pass		Vitis amurensis PI588635	Day4	True	True	True	32.9338071224372	-8.47546759609045	29.0096787231141
+GSM3554481_D4R4VamuAligned.counts.txt.gz	Day4_Rep4_Vamu	Vamu	4	4	pass		Vitis amurensis PI588635	Day4	True	True	True	50.0255521621217	-17.2606262194453	19.2440818110437
+GSM3554483_D5R1VamuAligned.counts.txt.gz	Day5_Rep1_Vamu	Vamu	5	1	pass		Vitis amurensis PI588635	Day5	True	True	True	61.0579921999076	-5.0333101781948	10.2934364357347
+GSM3554484_D5R2VamuAligned.counts.txt.gz	Day5_Rep2_Vamu	Vamu	5	2	pass		Vitis amurensis PI588635	Day5	True	True	True	77.6635679647209	-22.5915147904399	12.7423699337927
+GSM3554486_D5R3VamuAligned.counts.txt.gz	Day5_Rep3_Vamu	Vamu	5	3	pass		Vitis amurensis PI588635	Day5	True	True	True	64.5208835331691	-15.0708043826027	20.6859679385764
+GSM3554488_D7R1VamuAligned.counts.txt.gz	Day7_Rep1_Vamu	Vamu	7	1	pass		Vitis amurensis PI588635	Day7	True	True	True	89.8119332131297	-14.0741314632618	7.62437334019113
+GSM3554490_D7R2VamuAligned.counts.txt.gz	Day7_Rep2_Vamu	Vamu	7	2	pass		Vitis amurensis PI588635	Day7	True	True	True	94.817371234846	-19.7914912830532	6.28262781920418
+GSM3554491_D7R3VamuAligned.counts.txt.gz	Day7_Rep3_Vamu	Vamu	7	3	pass		Vitis amurensis PI588635	Day7	True	True	True	73.8431502340863	-9.58410258430366	23.3647445062288
+GSM3554492_D8R1VamuAligned.counts.txt.gz	Day8_Rep1_Vamu	Vamu	8	1	pass		Vitis amurensis PI588635	Day8	True	True	True	100.384118880556	-19.6572008519	-5.9982013301658
+GSM3554494_D8R2VamuAligned.counts.txt.gz	Day8_Rep2_Vamu	Vamu	8	2	pass		Vitis amurensis PI588635	Day8	True	True	True	97.2670825969243	-18.7578474392423	-0.140240915286315
+GSM3554496_D8R3VamuAligned.counts.txt.gz	Day8_Rep3_Vamu	Vamu	8	3	pass		Vitis amurensis PI588635	Day8	True	True	True	50.6126728865964	-19.480507073368	-4.11552373177442
+GSM3554500_D9R2VamuAligned.counts.txt.gz	Day9_Rep2_Vamu	Vamu	9	2	pass		Vitis amurensis PI588635	Day9	True	True	True	102.179778232394	-21.1522578585084	-12.5852860127814
+GSM3554502_D9R3VamuAligned.counts.txt.gz	Day9_Rep3_Vamu	Vamu	9	3	pass		Vitis amurensis PI588635	Day9	True	True	True	103.052686282959	-23.9089348915084	-13.7184323039253
+GSM3554504_D10R1VamuAligned.counts.txt.gz	Day10_Rep1_Vamu	Vamu	10	1	pass		Vitis amurensis PI588635	Day10	True	True	True	103.789890868415	-21.3853716664683	-0.336033224391113
+GSM3554506_D10R2VamuAligned.counts.txt.gz	Day10_Rep2_Vamu	Vamu	10	2	watch	library_size_lt_50pct_median	Vitis amurensis PI588635	Day10	True	True	False	98.4067730610633	-16.1084761711085	-19.2645199748673
+GSM3554508_D10R3VamuAligned.counts.txt.gz	Day10_Rep3_Vamu	Vamu	10	3	pass		Vitis amurensis PI588635	Day10	True	True	True	97.4592493385047	-20.589230741595	-9.13835488214052
+GSM3554510_D0R1VvcsAligned.counts.txt.gz	Day0_Rep1_Vvcs	Vvcs	0	1	pass		Vitis vinifera Cabernet Sauvignon	Day0	True	True	True	-94.1559941336	-25.620232312512	-54.296241659553
+GSM3554511_D0R2VvcsAligned.counts.txt.gz	Day0_Rep2_Vvcs	Vvcs	0	2	pass		Vitis vinifera Cabernet Sauvignon	Day0	True	True	True	-94.3860312455962	-23.9532277176796	-52.8886903969507
+GSM3554512_D0R3VvcsAligned.counts.txt.gz	Day0_Rep3_Vvcs	Vvcs	0	3	pass		Vitis vinifera Cabernet Sauvignon	Day0	True	True	True	-105.843474600847	-17.0095863663451	-66.2151735386239
+GSM3554513_D1R1VvcsAligned.counts.txt.gz	Day1_Rep1_Vvcs	Vvcs	1	1	pass		Vitis vinifera Cabernet Sauvignon	Day1	True	True	True	-88.1245041224796	3.60905481664349	-34.8005190802694
+GSM3554514_D1R2VvcsAligned.counts.txt.gz	Day1_Rep2_Vvcs	Vvcs	1	2	pass		Vitis vinifera Cabernet Sauvignon	Day1	True	True	True	-83.3477165157534	9.36557248258209	-27.6945959569877
+GSM3554515_D1R3VvcsAligned.counts.txt.gz	Day1_Rep3_Vvcs	Vvcs	1	3	pass		Vitis vinifera Cabernet Sauvignon	Day1	True	True	True	-84.2561567139559	15.853669053028	-37.4514798407119
+GSM3554516_D2R1VvcsAligned.counts.txt.gz	Day2_Rep1_Vvcs	Vvcs	2	1	pass		Vitis vinifera Cabernet Sauvignon	Day2	True	True	True	-61.6062400699249	26.3738883374903	-6.22960050418913
+GSM3554517_D2R2VvcsAligned.counts.txt.gz	Day2_Rep2_Vvcs	Vvcs	2	2	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day2	True	True	False	-61.1640580451899	25.9132313238885	-5.71461004480851
+GSM3554518_D2R3VvcsAligned.counts.txt.gz	Day2_Rep3_Vvcs	Vvcs	2	3	pass		Vitis vinifera Cabernet Sauvignon	Day2	True	True	True	-81.1671163899926	30.5531434808473	-24.4120878387555
+GSM3554519_D3R1VvcsAligned.counts.txt.gz	Day3_Rep1_Vvcs	Vvcs	3	1	pass		Vitis vinifera Cabernet Sauvignon	Day3	True	True	True	-71.7437289335831	36.8624723287811	-7.6510128117367
+GSM3554520_D3R2VvcsAligned.counts.txt.gz	Day3_Rep2_Vvcs	Vvcs	3	2	pass		Vitis vinifera Cabernet Sauvignon	Day3	True	True	True	-57.7030762063971	34.4639687796174	5.69711215442904
+GSM3554521_D3R3VvcsAligned.counts.txt.gz	Day3_Rep3_Vvcs	Vvcs	3	3	pass		Vitis vinifera Cabernet Sauvignon	Day3	True	True	True	-61.6715083460307	33.7963467107997	-2.92959014156696
+GSM3554522_D4R1VvcsAligned.counts.txt.gz	Day4_Rep1_Vvcs	Vvcs	4	1	pass		Vitis vinifera Cabernet Sauvignon	Day4	True	True	True	-41.6999485397436	37.4774803097685	9.11975075799514
+GSM3554523_D4R2VvcsAligned.counts.txt.gz	Day4_Rep2_Vvcs	Vvcs	4	2	pass		Vitis vinifera Cabernet Sauvignon	Day4	True	True	True	-44.8528649266004	36.7777377462613	22.3872663656497
+GSM3554525_D4R4VvcsAligned.counts.txt.gz	Day4_Rep4_Vvcs	Vvcs	4	4	pass		Vitis vinifera Cabernet Sauvignon	Day4	True	True	True	-62.7299950393017	39.322586084902	-1.39757282458152
+GSM3554526_D5R1VvcsAligned.counts.txt.gz	Day5_Rep1_Vvcs	Vvcs	5	1	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day5	True	True	False	-47.6359283672185	39.6021581749634	12.6461144238147
+GSM3554527_D5R2VvcsAligned.counts.txt.gz	Day5_Rep2_Vvcs	Vvcs	5	2	pass		Vitis vinifera Cabernet Sauvignon	Day5	True	True	True	-49.2137627817487	43.1642840758036	11.3318114308866
+GSM3554529_D5R4VvcsAligned.counts.txt.gz	Day5_Rep4_Vvcs	Vvcs	5	4	pass		Vitis vinifera Cabernet Sauvignon	Day5	True	True	True	-46.2492962116443	39.313561089942	11.7247773646373
+GSM3554531_D6R1VvcsAligned.counts.txt.gz	Day6_Rep1_Vvcs	Vvcs	6	1	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day6	True	True	False	-39.3279881947621	42.2715373048721	25.8605675438227
+GSM3554532_D6R2VvcsAligned.counts.txt.gz	Day6_Rep2_Vvcs	Vvcs	6	2	pass		Vitis vinifera Cabernet Sauvignon	Day6	True	True	True	-60.2403343450067	41.4343498532579	3.60710294357812
+GSM3554533_D6R3VvcsAligned.counts.txt.gz	Day6_Rep3_Vvcs	Vvcs	6	3	pass		Vitis vinifera Cabernet Sauvignon	Day6	True	True	True	-46.2180998195991	41.1801982491306	15.0307240445016
+GSM3554534_D6R4VvcsAligned.counts.txt.gz	Day6_Rep4_Vvcs	Vvcs	6	4	pass		Vitis vinifera Cabernet Sauvignon	Day6	True	True	True	-37.8734419562759	41.1063811355389	24.0573017043654
+GSM3554535_D7R1VvcsAligned.counts.txt.gz	Day7_Rep1_Vvcs	Vvcs	7	1	pass		Vitis vinifera Cabernet Sauvignon	Day7	True	True	True	-28.6005409023642	36.8654538613779	19.7149347634349
+GSM3554537_D7R3VvcsAligned.counts.txt.gz	Day7_Rep3_Vvcs	Vvcs	7	3	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day7	True	True	False	-51.5488253419241	41.1871180586178	19.096581294365
+GSM3554538_D7R5VvcsAligned.counts.txt.gz	Day7_Rep5_Vvcs	Vvcs	7	5	pass		Vitis vinifera Cabernet Sauvignon	Day7	True	True	True	-52.8810420340476	40.1429199835925	17.0459340439019
+GSM3554539_D8R1VvcsAligned.counts.txt.gz	Day8_Rep1_Vvcs	Vvcs	8	1	pass		Vitis vinifera Cabernet Sauvignon	Day8	True	True	True	-31.838509417207	42.0997791703639	12.2644539913271
+GSM3554540_D8R2VvcsAligned.counts.txt.gz	Day8_Rep2_Vvcs	Vvcs	8	2	pass		Vitis vinifera Cabernet Sauvignon	Day8	True	True	True	24.436985266964	28.4538574621384	7.99558656169277
+GSM3554541_D8R3VvcsAligned.counts.txt.gz	Day8_Rep3_Vvcs	Vvcs	8	3	pass		Vitis vinifera Cabernet Sauvignon	Day8	True	True	True	-8.51780570089262	41.168008230963	13.4507317402272
+GSM3554543_D9R2VvcsAligned.counts.txt.gz	Day9_Rep2_Vvcs	Vvcs	9	2	pass		Vitis vinifera Cabernet Sauvignon	Day9	True	True	True	-20.3650751639181	43.6289680817341	-2.09114542600551
+GSM3554544_D9R3VvcsAligned.counts.txt.gz	Day9_Rep3_Vvcs	Vvcs	9	3	pass		Vitis vinifera Cabernet Sauvignon	Day9	True	True	True	18.430714570053	27.3075203583423	-0.718158085709777
+GSM3554545_D10R2VvcsAligned.counts.txt.gz	Day10_Rep2_Vvcs	Vvcs	10	2	pass		Vitis vinifera Cabernet Sauvignon	Day10	True	True	True	11.8279395126963	41.7960979948894	-2.53307245494519
+GSM3554546_D10R3VvcsAligned.counts.txt.gz	Day10_Rep3_Vvcs	Vvcs	10	3	pass		Vitis vinifera Cabernet Sauvignon	Day10	True	True	True	13.6665537010033	30.2920241029296	-13.086196489206
+GSM3554547_D11R1VvcsAligned.counts.txt.gz	Day11_Rep1_Vvcs	Vvcs	11	1	pass		Vitis vinifera Cabernet Sauvignon	Day11	True	True	True	33.8007462508539	33.2106708590276	-0.153562862103828
+GSM3554548_D11R2VvcsAligned.counts.txt.gz	Day11_Rep2_Vvcs	Vvcs	11	2	pass		Vitis vinifera Cabernet Sauvignon	Day11	True	True	True	64.5923711945527	22.7694962819042	-15.955099878536
+GSM3554549_D11R3VvcsAligned.counts.txt.gz	Day11_Rep3_Vvcs	Vvcs	11	3	pass		Vitis vinifera Cabernet Sauvignon	Day11	True	True	True	18.0130376301259	42.0485396866032	-14.1018875847199
+GSM3554550_D12R1VvcsAligned.counts.txt.gz	Day12_Rep1_Vvcs	Vvcs	12	1	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day12	True	True	False	66.8901337506667	21.9170031953568	-8.12664852882868
+GSM3554551_D12R2VvcsAligned.counts.txt.gz	Day12_Rep2_Vvcs	Vvcs	12	2	pass		Vitis vinifera Cabernet Sauvignon	Day12	True	True	True	58.3352201086546	24.0920846509458	-11.6626991334354
+GSM3554552_D12R3VvcsAligned.counts.txt.gz	Day12_Rep3_Vvcs	Vvcs	12	3	pass		Vitis vinifera Cabernet Sauvignon	Day12	True	True	True	77.4909274438545	14.870170379782	-23.6229729265612
+GSM3554554_D13R2VvcsAligned.counts.txt.gz	Day13_Rep2_Vvcs	Vvcs	13	2	pass		Vitis vinifera Cabernet Sauvignon	Day13	True	True	True	40.617142131206	34.5138155369062	-2.43737098040353
+GSM3554555_D13R3VvcsAligned.counts.txt.gz	Day13_Rep3_Vvcs	Vvcs	13	3	pass		Vitis vinifera Cabernet Sauvignon	Day13	True	True	True	79.4410821420181	14.4981001449564	-25.1927023628878
+GSM3554556_D14R1VvcsAligned.counts.txt.gz	Day14_Rep1_Vvcs	Vvcs	14	1	pass		Vitis vinifera Cabernet Sauvignon	Day14	True	True	True	83.1076377622419	12.8140303710662	-15.7330256073836
+GSM3554557_D14R2VvcsAligned.counts.txt.gz	Day14_Rep2_Vvcs	Vvcs	14	2	pass		Vitis vinifera Cabernet Sauvignon	Day14	True	True	True	86.8722751741021	10.6565235745261	-21.3479062743688
+GSM3554558_D14R3VvcsAligned.counts.txt.gz	Day14_Rep3_Vvcs	Vvcs	14	3	pass		Vitis vinifera Cabernet Sauvignon	Day14	True	True	True	105.325410990297	-6.65358904265408	-37.9958042200711
+GSM3554559_D15R1VvcsAligned.counts.txt.gz	Day15_Rep1_Vvcs	Vvcs	15	1	pass		Vitis vinifera Cabernet Sauvignon	Day15	True	True	True	35.8339611546207	40.085023526277	-8.19653408560901
+GSM3554560_D15R2VvcsAligned.counts.txt.gz	Day15_Rep2_Vvcs	Vvcs	15	2	pass		Vitis vinifera Cabernet Sauvignon	Day15	True	True	True	50.2936662666265	29.776823820538	-14.3235809648915
+GSM3554561_D15R3VvcsAligned.counts.txt.gz	Day15_Rep3_Vvcs	Vvcs	15	3	pass		Vitis vinifera Cabernet Sauvignon	Day15	True	True	True	59.4389456837647	24.3154882450671	-5.60205232760104
+GSM3554562_D16R1VvcsAligned.counts.txt.gz	Day16_Rep1_Vvcs	Vvcs	16	1	pass		Vitis vinifera Cabernet Sauvignon	Day16	True	True	True	89.474219418737	11.7413597952242	-30.19411021608
+GSM3554563_D16R2VvcsAligned.counts.txt.gz	Day16_Rep2_Vvcs	Vvcs	16	2	watch	library_size_lt_50pct_median	Vitis vinifera Cabernet Sauvignon	Day16	True	True	False	105.69126856039	-9.74265830996749	-33.8885944656224
+GSM3554564_D16R3VvcsAligned.counts.txt.gz	Day16_Rep3_Vvcs	Vvcs	16	3	pass		Vitis vinifera Cabernet Sauvignon	Day16	True	True	True	109.018422272325	-16.4263160757115	-40.0719185981871
+GSM3554565_D17R1VvcsAligned.counts.txt.gz	Day17_Rep1_Vvcs	Vvcs	17	1	pass		Vitis vinifera Cabernet Sauvignon	Day17	True	True	True	107.518436918749	-8.463397651794	-34.1598625260821
+GSM3554566_D17R2VvcsAligned.counts.txt.gz	Day17_Rep2_Vvcs	Vvcs	17	2	pass		Vitis vinifera Cabernet Sauvignon	Day17	True	True	True	103.984458979087	-6.11631720677636	-30.0515296871366
+GSM3554567_D17R3VvcsAligned.counts.txt.gz	Day17_Rep3_Vvcs	Vvcs	17	3	pass		Vitis vinifera Cabernet Sauvignon	Day17	True	True	True	82.6830146487329	16.4881191090081	-22.6861258893863
+GSM3554568_D0R1VvriAligned.counts.txt.gz	Day0_Rep1_Vvri	Vvri	0	1	pass		Vitis vinifera Riesling	Day0	True	True	True	-88.190975096975	-23.8908698748715	-51.3159861682307
+GSM3554569_D0R2VvriAligned.counts.txt.gz	Day0_Rep2_Vvri	Vvri	0	2	pass		Vitis vinifera Riesling	Day0	True	True	True	-101.735114866395	-17.3321385623871	-59.692483117176
+GSM3554570_D0R3VvriAligned.counts.txt.gz	Day0_Rep3_Vvri	Vvri	0	3	pass		Vitis vinifera Riesling	Day0	True	True	True	-93.5546396347675	-22.9456833005237	-59.4479185943357
+GSM3554571_D1R1VvriAligned.counts.txt.gz	Day1_Rep1_Vvri	Vvri	1	1	pass		Vitis vinifera Riesling	Day1	True	True	True	-64.6608459645358	6.2663755536827	-21.4369915043437
+GSM3554572_D1R2VvriAligned.counts.txt.gz	Day1_Rep2_Vvri	Vvri	1	2	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day1	True	True	False	-84.4632370580344	5.94059840307273	-38.5885893498695
+GSM3554573_D1R3VvriAligned.counts.txt.gz	Day1_Rep3_Vvri	Vvri	1	3	pass		Vitis vinifera Riesling	Day1	True	True	True	-93.1635814175236	7.02980564737607	-46.062418343738
+GSM3554574_D2R1VvriAligned.counts.txt.gz	Day2_Rep1_Vvri	Vvri	2	1	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day2	True	True	False	-69.505231944548	26.4779261210656	-16.1645533054501
+GSM3554575_D2R2VvriAligned.counts.txt.gz	Day2_Rep2_Vvri	Vvri	2	2	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day2	True	True	False	-59.2586582632242	21.6622343679743	-8.83494684051995
+GSM3554576_D2R3VvriAligned.counts.txt.gz	Day2_Rep3_Vvri	Vvri	2	3	pass		Vitis vinifera Riesling	Day2	True	True	True	-63.0394852721421	32.2803693893507	-7.88492170062609
+GSM3554577_D3R1VvriAligned.counts.txt.gz	Day3_Rep1_Vvri	Vvri	3	1	pass		Vitis vinifera Riesling	Day3	True	True	True	-52.1837471615103	27.3993726651359	5.10300309727719
+GSM3554578_D3R2VvriAligned.counts.txt.gz	Day3_Rep2_Vvri	Vvri	3	2	pass		Vitis vinifera Riesling	Day3	True	True	True	-51.4779969773717	31.0520911494017	3.61173718894197
+GSM3554579_D3R3VvriAligned.counts.txt.gz	Day3_Rep3_Vvri	Vvri	3	3	pass		Vitis vinifera Riesling	Day3	True	True	True	-65.9042366310238	37.7009372984557	-11.5408901705429
+GSM3554580_D4R1VvriAligned.counts.txt.gz	Day4_Rep1_Vvri	Vvri	4	1	pass		Vitis vinifera Riesling	Day4	True	True	True	-44.552703292395	34.4293624498869	8.34467596100719
+GSM3554584_D4R5VvriAligned.counts.txt.gz	Day4_Rep5_Vvri	Vvri	4	5	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day4	True	True	False	-62.3696230233978	51.5039225209694	-4.78594226685111
+GSM3554585_D5R1VvriAligned.counts.txt.gz	Day5_Rep1_Vvri	Vvri	5	1	pass		Vitis vinifera Riesling	Day5	True	True	True	-46.995593271932	42.9079466083104	9.22782764926987
+GSM3554586_D5R2VvriAligned.counts.txt.gz	Day5_Rep2_Vvri	Vvri	5	2	pass		Vitis vinifera Riesling	Day5	True	True	True	-52.9755118321072	42.6046342762588	4.60339491704248
+GSM3554587_D6R1VvriAligned.counts.txt.gz	Day6_Rep1_Vvri	Vvri	6	1	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day6	True	True	False	-45.5044609512158	42.4086318670454	11.4337438353829
+GSM3554588_D6R2VvriAligned.counts.txt.gz	Day6_Rep2_Vvri	Vvri	6	2	pass		Vitis vinifera Riesling	Day6	True	True	True	-47.7139007758482	41.1718030830187	12.9976258705772
+GSM3554589_D6R3VvriAligned.counts.txt.gz	Day6_Rep3_Vvri	Vvri	6	3	pass		Vitis vinifera Riesling	Day6	True	True	True	-49.3103139303683	42.8244516498482	16.23984578344
+GSM3554590_D6R4VvriAligned.counts.txt.gz	Day6_Rep4_Vvri	Vvri	6	4	pass		Vitis vinifera Riesling	Day6	True	True	True	-44.6364537285381	42.3550235308009	10.3761592616195
+GSM3554591_D7R1VvriAligned.counts.txt.gz	Day7_Rep1_Vvri	Vvri	7	1	pass		Vitis vinifera Riesling	Day7	True	True	True	-17.9955969508091	36.874073900726	16.3447285764903
+GSM3554592_D7R2VvriAligned.counts.txt.gz	Day7_Rep2_Vvri	Vvri	7	2	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day7	True	True	False	-49.0867928924394	46.4038713574602	13.213511610971
+GSM3554593_D7R3VvriAligned.counts.txt.gz	Day7_Rep3_Vvri	Vvri	7	3	pass		Vitis vinifera Riesling	Day7	True	True	True	-38.5196640346693	40.6738387626391	19.7911356029017
+GSM3554594_D8R1VvriAligned.counts.txt.gz	Day8_Rep1_Vvri	Vvri	8	1	pass		Vitis vinifera Riesling	Day8	True	True	True	-20.2637637305221	41.9805388977161	10.7866937980676
+GSM3554595_D8R2VvriAligned.counts.txt.gz	Day8_Rep2_Vvri	Vvri	8	2	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day8	True	True	False	-7.79088928527597	39.1314272053663	7.93152839091835
+GSM3554596_D8R3VvriAligned.counts.txt.gz	Day8_Rep3_Vvri	Vvri	8	3	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day8	True	True	False	-32.3850988749409	36.8349969460483	28.911223394981
+GSM3554597_D8R4VvriAligned.counts.txt.gz	Day8_Rep4_Vvri	Vvri	8	4	pass		Vitis vinifera Riesling	Day8	True	True	True	-25.2580599134317	40.9639772412536	5.53904765708396
+GSM3554601_D9R3VvriAligned.counts.txt.gz	Day9_Rep3_Vvri	Vvri	9	3	pass		Vitis vinifera Riesling	Day9	True	True	True	23.753154539289	25.462741292119	-2.55394673966058
+GSM3554602_D10R1VvriAligned.counts.txt.gz	Day10_Rep1_Vvri	Vvri	10	1	pass		Vitis vinifera Riesling	Day10	True	True	True	58.0362034464342	24.1521890959336	-0.707635083183463
+GSM3554603_D10R2VvriAligned.counts.txt.gz	Day10_Rep2_Vvri	Vvri	10	2	pass		Vitis vinifera Riesling	Day10	True	True	True	-3.79464053304315	40.9276411071844	-0.922001953336785
+GSM3554604_D10R3VvriAligned.counts.txt.gz	Day10_Rep3_Vvri	Vvri	10	3	pass		Vitis vinifera Riesling	Day10	True	True	True	-17.7598742025097	43.1909793058415	-3.17095117436263
+GSM3554605_D11R1VvriAligned.counts.txt.gz	Day11_Rep1_Vvri	Vvri	11	1	watch	library_size_lt_50pct_median;detected_genes_lt_85pct_median	Vitis vinifera Riesling	Day11	True	True	False	-6.57584810628938	45.6360118733415	13.0770042493165
+GSM3554606_D11R2VvriAligned.counts.txt.gz	Day11_Rep2_Vvri	Vvri	11	2	pass		Vitis vinifera Riesling	Day11	True	True	True	70.8728840489449	13.7536873393094	-14.154827471791
+GSM3554607_D11R3VvriAligned.counts.txt.gz	Day11_Rep3_Vvri	Vvri	11	3	pass		Vitis vinifera Riesling	Day11	True	True	True	74.9355289071017	6.30914000103078	-14.7993342964108
+GSM3554608_D12R1VvriAligned.counts.txt.gz	Day12_Rep1_Vvri	Vvri	12	1	pass		Vitis vinifera Riesling	Day12	True	True	True	40.76619895766	37.8920662585914	-15.205071453964
+GSM3554609_D12R2VvriAligned.counts.txt.gz	Day12_Rep2_Vvri	Vvri	12	2	pass		Vitis vinifera Riesling	Day12	True	True	True	38.8430659991991	33.8316477752959	-8.14934786694972
+GSM3554610_D12R3VvriAligned.counts.txt.gz	Day12_Rep3_Vvri	Vvri	12	3	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day12	True	True	False	34.5362416084196	34.9419838183673	-8.5684680704623
+GSM3554611_D13R1VvriAligned.counts.txt.gz	Day13_Rep1_Vvri	Vvri	13	1	watch	library_size_lt_50pct_median	Vitis vinifera Riesling	Day13	True	True	False	29.9795227129221	39.5761912466856	-10.8008379545997
+GSM3554612_D13R2VvriAligned.counts.txt.gz	Day13_Rep2_Vvri	Vvri	13	2	pass		Vitis vinifera Riesling	Day13	True	True	True	41.0848668430916	37.458378427394	-8.64702415440685
+GSM3554613_D13R3VvriAligned.counts.txt.gz	Day13_Rep3_Vvri	Vvri	13	3	pass		Vitis vinifera Riesling	Day13	True	True	True	69.3777483833742	18.6558967474922	-21.1761749304449
+GSM3554614_D14R1VvriAligned.counts.txt.gz	Day14_Rep1_Vvri	Vvri	14	1	pass		Vitis vinifera Riesling	Day14	True	True	True	85.6072642244835	11.6916836326478	-27.0968946155617
+GSM3554615_D14R2VvriAligned.counts.txt.gz	Day14_Rep2_Vvri	Vvri	14	2	pass		Vitis vinifera Riesling	Day14	True	True	True	95.0603230468488	-0.359151892882978	-31.6450892410586
+GSM3554616_D14R3VvriAligned.counts.txt.gz	Day14_Rep3_Vvri	Vvri	14	3	pass		Vitis vinifera Riesling	Day14	True	True	True	92.9305425390498	7.12204156331405	-30.8835695570686
+GSM3554617_D15R1VvriAligned.counts.txt.gz	Day15_Rep1_Vvri	Vvri	15	1	pass		Vitis vinifera Riesling	Day15	True	True	True	86.999258634249	-1.14484905661067	-38.1647769099621
+GSM3554618_D15R2VvriAligned.counts.txt.gz	Day15_Rep2_Vvri	Vvri	15	2	pass		Vitis vinifera Riesling	Day15	True	True	True	99.4823244718326	-5.49621959858705	-35.0013450890861
+GSM3554619_D15R3VvriAligned.counts.txt.gz	Day15_Rep3_Vvri	Vvri	15	3	pass		Vitis vinifera Riesling	Day15	True	True	True	104.560793714214	-5.51275566259289	-36.2848706034647
+GSM3554620_D0R1VripAligned.counts.txt.gz	Day0_Rep1_Vrip	Vrip	0	1	pass		Vitis riparia PI588275	Day0	True	True	True	-87.184920361275	-70.6426394502911	-19.5847292351641
+GSM3554621_D0R2VripAligned.counts.txt.gz	Day0_Rep2_Vrip	Vrip	0	2	pass		Vitis riparia PI588275	Day0	True	True	True	-88.6380333020374	-70.2457023026284	-28.7818396369318
+GSM3554622_D0R3VripAligned.counts.txt.gz	Day0_Rep3_Vrip	Vrip	0	3	watch	library_size_lt_50pct_median;detected_genes_lt_85pct_median	Vitis riparia PI588275	Day0	True	True	False	-93.0047237031906	-67.4901977875893	-38.0205693256613
+GSM3554623_D0R4VripAligned.counts.txt.gz	Day0_Rep4_Vrip	Vrip	0	4	watch	library_size_lt_50pct_median;detected_genes_lt_85pct_median	Vitis riparia PI588275	Day0	True	True	False	-90.9382423367727	-74.2718031179422	-20.0613925975138
+GSM3554624_D0R5VripAligned.counts.txt.gz	Day0_Rep5_Vrip	Vrip	0	5	pass		Vitis riparia PI588275	Day0	True	True	True	-86.1262118774792	-62.0838056576559	-34.690038440948
+GSM3554625_D0R6VripAligned.counts.txt.gz	Day0_Rep6_Vrip	Vrip	0	6	pass		Vitis riparia PI588275	Day0	True	True	True	-90.4613263037598	-65.254917413339	-37.2421847390495
+GSM3554626_D1R1VripAligned.counts.txt.gz	Day1_Rep1_Vrip	Vrip	1	1	pass		Vitis riparia PI588275	Day1	True	True	True	-77.8815985264793	-50.8939433031234	-16.8004595170224
+GSM3554627_D1R2VripAligned.counts.txt.gz	Day1_Rep2_Vrip	Vrip	1	2	watch	library_size_lt_50pct_median;detected_genes_lt_85pct_median	Vitis riparia PI588275	Day1	True	True	False	-70.2921581473341	-50.9682005362486	15.6332909187174
+GSM3554628_D1R3VripAligned.counts.txt.gz	Day1_Rep3_Vrip	Vrip	1	3	pass		Vitis riparia PI588275	Day1	True	True	True	-70.138338275871	-56.6766324899165	0.36587660861271
+GSM3554629_D1R4VripAligned.counts.txt.gz	Day1_Rep4_Vrip	Vrip	1	4	pass		Vitis riparia PI588275	Day1	True	True	True	-68.5937783494146	-49.33774852067	14.6755923740971
+GSM3554630_D2R1VripAligned.counts.txt.gz	Day2_Rep1_Vrip	Vrip	2	1	pass		Vitis riparia PI588275	Day2	True	True	True	-56.9718913491838	-41.1814682999074	22.6548826451001
+GSM3554631_D2R2VripAligned.counts.txt.gz	Day2_Rep2_Vrip	Vrip	2	2	pass		Vitis riparia PI588275	Day2	True	True	True	-62.2014614263376	-38.3302621651608	12.1227139635974
+GSM3554632_D2R3VripAligned.counts.txt.gz	Day2_Rep3_Vrip	Vrip	2	3	pass		Vitis riparia PI588275	Day2	True	True	True	-46.7509284231648	-44.871851720126	25.363417442391
+GSM3554633_D3R1VripAligned.counts.txt.gz	Day3_Rep1_Vrip	Vrip	3	1	pass		Vitis riparia PI588275	Day3	True	True	True	-42.7140774259206	-40.7174634298175	33.2558845106433
+GSM3554634_D3R2VripAligned.counts.txt.gz	Day3_Rep2_Vrip	Vrip	3	2	watch	library_size_lt_50pct_median	Vitis riparia PI588275	Day3	True	True	False	-33.6549427547454	-42.5969562946113	33.5493427194696
+GSM3554635_D3R3VripAligned.counts.txt.gz	Day3_Rep3_Vrip	Vrip	3	3	pass		Vitis riparia PI588275	Day3	True	True	True	-36.1293252538139	-35.3664663957772	36.1811373152392
+GSM3554636_D3R4VripAligned.counts.txt.gz	Day3_Rep4_Vrip	Vrip	3	4	watch	library_size_lt_50pct_median	Vitis riparia PI588275	Day3	True	True	False	-34.3301500009827	-42.1996657793399	34.2099467967985
+GSM3554639_D4R3VripAligned.counts.txt.gz	Day4_Rep3_Vrip	Vrip	4	3	pass		Vitis riparia PI588275	Day4	True	True	True	-31.0040118794729	-32.5581764203112	47.3190879091045
+GSM3554641_D4R5VripAligned.counts.txt.gz	Day4_Rep5_Vrip	Vrip	4	5	pass		Vitis riparia PI588275	Day4	True	True	True	-47.6889943688198	-26.4159273304342	24.0889064361686
+GSM3554642_D5R1VripAligned.counts.txt.gz	Day5_Rep1_Vrip	Vrip	5	1	pass		Vitis riparia PI588275	Day5	True	True	True	-27.340483480731	-26.6804982659748	43.8682939813127
+GSM3554643_D5R2VripAligned.counts.txt.gz	Day5_Rep2_Vrip	Vrip	5	2	pass		Vitis riparia PI588275	Day5	True	True	True	-27.5150276569014	-29.2584282634404	45.8743309809924
+GSM3554644_D5R3VripAligned.counts.txt.gz	Day5_Rep3_Vrip	Vrip	5	3	pass		Vitis riparia PI588275	Day5	True	True	True	-28.9301957420178	-33.7199981842585	51.216968838212
+GSM3554645_D6R1VripAligned.counts.txt.gz	Day6_Rep1_Vrip	Vrip	6	1	watch	library_size_lt_50pct_median	Vitis riparia PI588275	Day6	True	True	False	-22.6338343559895	-28.6137783389885	52.1874294376635
+GSM3554646_D6R2VripAligned.counts.txt.gz	Day6_Rep2_Vrip	Vrip	6	2	pass		Vitis riparia PI588275	Day6	True	True	True	-5.73496335938277	-22.9019700927445	38.982022156364
+GSM3554647_D6R3VripAligned.counts.txt.gz	Day6_Rep3_Vrip	Vrip	6	3	pass		Vitis riparia PI588275	Day6	True	True	True	-23.7204675900926	-33.845603016945	47.1776673477603
+GSM3554648_D6R4VripAligned.counts.txt.gz	Day6_Rep4_Vrip	Vrip	6	4	pass		Vitis riparia PI588275	Day6	True	True	True	-23.0169283945635	-29.3781964924968	51.0139337248959
+GSM3554649_D7R1VripAligned.counts.txt.gz	Day7_Rep1_Vrip	Vrip	7	1	pass		Vitis riparia PI588275	Day7	True	True	True	-20.2777518166249	-21.9156863440778	46.6201831283873
+GSM3554650_D7R2VripAligned.counts.txt.gz	Day7_Rep2_Vrip	Vrip	7	2	pass		Vitis riparia PI588275	Day7	True	True	True	-33.4872810344814	-20.4236628552654	38.0060080420869
+GSM3554651_D7R3VripAligned.counts.txt.gz	Day7_Rep3_Vrip	Vrip	7	3	pass		Vitis riparia PI588275	Day7	True	True	True	21.6783997848622	-20.4765475091794	48.7143959648948
+GSM3554652_D8R1VripAligned.counts.txt.gz	Day8_Rep1_Vrip	Vrip	8	1	pass		Vitis riparia PI588275	Day8	True	True	True	76.9029454693898	-26.2050109348429	15.5307610498114
+GSM3554653_D8R2VripAligned.counts.txt.gz	Day8_Rep2_Vrip	Vrip	8	2	pass		Vitis riparia PI588275	Day8	True	True	True	-15.435368314784	-27.9121252620962	43.4222427859788
+GSM3554654_D8R3VripAligned.counts.txt.gz	Day8_Rep3_Vrip	Vrip	8	3	pass		Vitis riparia PI588275	Day8	True	True	True	32.6918133809187	-24.8206140307702	43.1626970035198
+GSM3554655_D9R1VripAligned.counts.txt.gz	Day9_Rep1_Vrip	Vrip	9	1	pass		Vitis riparia PI588275	Day9	True	True	True	11.2962277046545	-26.2170800072428	47.126919523535
+GSM3554656_D9R2VripAligned.counts.txt.gz	Day9_Rep2_Vrip	Vrip	9	2	pass		Vitis riparia PI588275	Day9	True	True	True	41.3067307148477	-27.5608173069322	20.4513623014918
+GSM3554657_D9R3VripAligned.counts.txt.gz	Day9_Rep3_Vrip	Vrip	9	3	pass		Vitis riparia PI588275	Day9	True	True	True	70.793241853628	-25.9281485024752	5.3657625557752
+GSM3554658_D10R1VripAligned.counts.txt.gz	Day10_Rep1_Vrip	Vrip	10	1	pass		Vitis riparia PI588275	Day10	True	True	True	84.3541794258638	-31.4112547419459	22.29394208124
+GSM3554659_D10R2VripAligned.counts.txt.gz	Day10_Rep2_Vrip	Vrip	10	2	pass		Vitis riparia PI588275	Day10	True	True	True	77.4557457825461	-29.3137424024455	11.6593438587933
+GSM3554660_D10R3VripAligned.counts.txt.gz	Day10_Rep3_Vrip	Vrip	10	3	pass		Vitis riparia PI588275	Day10	True	True	True	54.8493283046653	-30.7328071681438	11.7477142758257
+GSM3554661_D11R1VripAligned.counts.txt.gz	Day11_Rep1_Vrip	Vrip	11	1	pass		Vitis riparia PI588275	Day11	True	True	True	93.3950875280106	-31.0777566537898	6.53056939993332
+GSM3554662_D11R2VripAligned.counts.txt.gz	Day11_Rep2_Vrip	Vrip	11	2	pass		Vitis riparia PI588275	Day11	True	True	True	67.258189347112	-24.7978026947367	11.1102447537202
+GSM3554663_D11R3VripAligned.counts.txt.gz	Day11_Rep3_Vrip	Vrip	11	3	pass		Vitis riparia PI588275	Day11	True	True	True	95.9563689585471	-34.4667202178901	-4.16095845923261
+GSM3554664_D12R1VripAligned.counts.txt.gz	Day12_Rep1_Vrip	Vrip	12	1	pass		Vitis riparia PI588275	Day12	True	True	True	62.6272953712934	-26.7090201665311	10.2352856403525
+GSM3554665_D12R2VripAligned.counts.txt.gz	Day12_Rep2_Vrip	Vrip	12	2	pass		Vitis riparia PI588275	Day12	True	True	True	89.2815829881315	-30.3734089521826	2.33417300154607
+GSM3554666_D12R3VripAligned.counts.txt.gz	Day12_Rep3_Vrip	Vrip	12	3	pass		Vitis riparia PI588275	Day12	True	True	True	79.0641341400679	-29.2256303845695	5.03765085654995

@@ -1,0 +1,6 @@
+dataset	repository	accession	input_type	sample_count	study_role	public_source	notes
+GSE124820	GEO/SRA	GSE124820	public processed count matrices	189	discovery; cross-genotype meta-analysis; reference WGCNA	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124820	Rows in existing metadata; not newly analyzed. GSE124820 QC-B=172, QC-C=147.
+GSE273240	GEO/SRA	GSE273240	public processed count matrices	90	module preservation; contextual projection	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273240	Raw sources are referenced, not redistributed.
+GSE184114	GEO/SRA	GSE184114	public processed count matrices	74	ABA acclimation/deacclimation context	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184114	Acclimation and deacclimation have different tissues; keep contexts separate.
+GSE277812	GEO/SRA	GSE277812	public processed count matrices	27	developmental stage and node context	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE277812	Raw sources are referenced, not redistributed.
+GSE337039	GEO/SRA	GSE337039	public raw single-end FASTQ via SRA	60	independent cold validation from raw FASTQ	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE337039	Raw sources are referenced, not redistributed.

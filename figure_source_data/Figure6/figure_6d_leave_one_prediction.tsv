@@ -1,0 +1,17 @@
+method	held_out_variety	metric	value
+forest	Vamu	Delta-expression Spearman rho	0.661522229109548
+forest	Vamu	RMSE improvement vs persistence	0.258805365660389
+sparse	Vamu	Delta-expression Spearman rho	0.509849097414514
+sparse	Vamu	RMSE improvement vs persistence	-0.242933868020445
+forest	Vvcs	Delta-expression Spearman rho	0.521584696372824
+forest	Vvcs	RMSE improvement vs persistence	0.140090761589073
+sparse	Vvcs	Delta-expression Spearman rho	0.402766260175308
+sparse	Vvcs	RMSE improvement vs persistence	-0.0857979826216873
+forest	Vvri	Delta-expression Spearman rho	0.486086029586922
+forest	Vvri	RMSE improvement vs persistence	0.153292373635026
+sparse	Vvri	Delta-expression Spearman rho	0.415574675414484
+sparse	Vvri	RMSE improvement vs persistence	-0.0731729035579971
+forest	Vrip	Delta-expression Spearman rho	0.60675948313568
+forest	Vrip	RMSE improvement vs persistence	0.231099808650745
+sparse	Vrip	Delta-expression Spearman rho	0.458820324978576
+sparse	Vrip	RMSE improvement vs persistence	-0.117545055402658

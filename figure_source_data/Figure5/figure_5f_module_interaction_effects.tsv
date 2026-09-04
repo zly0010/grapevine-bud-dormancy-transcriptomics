@@ -1,0 +1,5 @@
+dataset	analysis_family	module_color	effect	df	f_value	p_value	partial_eta_squared	fdr	cultivar	label	row
+GSE337039	Brianna_chilling_time_course	blue	C(condition, Sum):C(time_index, Sum)	4	119.855551231735	1.1243677597339e-13	0.959953722916814	5.30059086731698e-13	Brianna	FDR 5.3e-13	Brianna · blue
+GSE337039	Brianna_chilling_time_course	turquoise	C(condition, Sum):C(time_index, Sum)	4	71.883843468514	1.40047582511341e-11	0.934966830813451	5.43714143867561e-11	Brianna	FDR 5.4e-11	Brianna · turquoise
+GSE337039	Marquette_chilling_time_course	blue	C(condition, Sum):C(time_index, Sum)	4	53.2639470728116	2.19693707802731e-10	0.914183637546018	7.24989235749013e-10	Marquette	FDR 7.2e-10	Marquette · blue
+GSE337039	Marquette_chilling_time_course	turquoise	C(condition, Sum):C(time_index, Sum)	4	36.6484766866284	6.09412948316046e-09	0.879947589977395	1.54697133034073e-08	Marquette	FDR 1.5e-08	Marquette · turquoise

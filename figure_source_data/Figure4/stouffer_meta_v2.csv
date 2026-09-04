@@ -1,0 +1,4 @@
+module_color,datasets_combined,dataset_list,weight_formula,direction_in_weight,combined_z,combined_one_sided_p,all_dataset_z_positive,fdr_bh_across_modules
+blue,4,GSE273240;GSE184114;GSE277812;GSE337039,sqrt(effective_sample_size),False,7.284401007064113,1.6155131063408794e-13,True,2.423269659511319e-13
+turquoise,4,GSE273240;GSE184114;GSE277812;GSE337039,sqrt(effective_sample_size),False,7.284401007064113,1.6155131063408794e-13,True,2.423269659511319e-13
+brown,4,GSE273240;GSE184114;GSE277812;GSE337039,sqrt(effective_sample_size),False,7.1642890521524585,3.9095633793683784e-13,True,3.9095633793683784e-13

@@ -1,0 +1,441 @@
+dataset	sample_id	matrix_column	genotype	condition	context	time	replicate	qc_status	source_file
+GSE124820	GSM3554450	GSM3554450_D0R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	0	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554452	GSM3554452_D0R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	0	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554455	GSM3554455_D0R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	0	3	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554456	GSM3554456_D0R4VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	0	4	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554458	GSM3554458_D0R5VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	0	5	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554460	GSM3554460_D1R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	1	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554462	GSM3554462_D1R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	1	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554464	GSM3554464_D1R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	1	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554466	GSM3554466_D2R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	2	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554468	GSM3554468_D2R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	2	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554470	GSM3554470_D2R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	2	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554472	GSM3554472_D3R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	3	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554474	GSM3554474_D3R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	3	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554476	GSM3554476_D3R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	3	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554478	GSM3554478_D4R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	4	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554480	GSM3554480_D4R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	4	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554481	GSM3554481_D4R4VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	4	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554483	GSM3554483_D5R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	5	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554484	GSM3554484_D5R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	5	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554486	GSM3554486_D5R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	5	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554488	GSM3554488_D7R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	7	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554490	GSM3554490_D7R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	7	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554491	GSM3554491_D7R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	7	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554492	GSM3554492_D8R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	8	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554494	GSM3554494_D8R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	8	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554496	GSM3554496_D8R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	8	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554498	GSM3554498_D9R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	9	1	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554500	GSM3554500_D9R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	9	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554502	GSM3554502_D9R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	9	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554504	GSM3554504_D10R1VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	10	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554506	GSM3554506_D10R2VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	10	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554508	GSM3554508_D10R3VamuAligned.counts.txt.gz	Vamu	room_temperature_deacclimation	raw_counts	10	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554510	GSM3554510_D0R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	0	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554511	GSM3554511_D0R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	0	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554512	GSM3554512_D0R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	0	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554513	GSM3554513_D1R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	1	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554514	GSM3554514_D1R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	1	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554515	GSM3554515_D1R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	1	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554516	GSM3554516_D2R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	2	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554517	GSM3554517_D2R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	2	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554518	GSM3554518_D2R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	2	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554519	GSM3554519_D3R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	3	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554520	GSM3554520_D3R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	3	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554521	GSM3554521_D3R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	3	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554522	GSM3554522_D4R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	4	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554523	GSM3554523_D4R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	4	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554524	GSM3554524_D4R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	4	3	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554525	GSM3554525_D4R4VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	4	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554526	GSM3554526_D5R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	5	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554527	GSM3554527_D5R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	5	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554528	GSM3554528_D5R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	5	3	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554529	GSM3554529_D5R4VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	5	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554530	GSM3554530_D5R5VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	5	5	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554531	GSM3554531_D6R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	6	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554532	GSM3554532_D6R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	6	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554533	GSM3554533_D6R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	6	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554534	GSM3554534_D6R4VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	6	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554535	GSM3554535_D7R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	7	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554536	GSM3554536_D7R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	7	2	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554537	GSM3554537_D7R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	7	3	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554538	GSM3554538_D7R5VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	7	5	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554539	GSM3554539_D8R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	8	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554540	GSM3554540_D8R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	8	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554541	GSM3554541_D8R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	8	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554542	GSM3554542_D9R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	9	1	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554543	GSM3554543_D9R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	9	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554544	GSM3554544_D9R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	9	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554545	GSM3554545_D10R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	10	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554546	GSM3554546_D10R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	10	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554547	GSM3554547_D11R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	11	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554548	GSM3554548_D11R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	11	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554549	GSM3554549_D11R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	11	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554550	GSM3554550_D12R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	12	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554551	GSM3554551_D12R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	12	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554552	GSM3554552_D12R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	12	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554553	GSM3554553_D13R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	13	1	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554554	GSM3554554_D13R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	13	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554555	GSM3554555_D13R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	13	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554556	GSM3554556_D14R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	14	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554557	GSM3554557_D14R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	14	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554558	GSM3554558_D14R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	14	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554559	GSM3554559_D15R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	15	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554560	GSM3554560_D15R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	15	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554561	GSM3554561_D15R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	15	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554562	GSM3554562_D16R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	16	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554563	GSM3554563_D16R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	16	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554564	GSM3554564_D16R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	16	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554565	GSM3554565_D17R1VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	17	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554566	GSM3554566_D17R2VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	17	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554567	GSM3554567_D17R3VvcsAligned.counts.txt.gz	Vvcs	room_temperature_deacclimation	raw_counts	17	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554568	GSM3554568_D0R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	0	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554569	GSM3554569_D0R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	0	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554570	GSM3554570_D0R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	0	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554571	GSM3554571_D1R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	1	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554572	GSM3554572_D1R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	1	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554573	GSM3554573_D1R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	1	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554574	GSM3554574_D2R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	2	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554575	GSM3554575_D2R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	2	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554576	GSM3554576_D2R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	2	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554577	GSM3554577_D3R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	3	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554578	GSM3554578_D3R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	3	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554579	GSM3554579_D3R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	3	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554580	GSM3554580_D4R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	4	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554581	GSM3554581_D4R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	4	2	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554582	GSM3554582_D4R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	4	3	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554583	GSM3554583_D4R4VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	4	4	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554584	GSM3554584_D4R5VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	4	5	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554585	GSM3554585_D5R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	5	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554586	GSM3554586_D5R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	5	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554587	GSM3554587_D6R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	6	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554588	GSM3554588_D6R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	6	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554589	GSM3554589_D6R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	6	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554590	GSM3554590_D6R4VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	6	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554591	GSM3554591_D7R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	7	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554592	GSM3554592_D7R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	7	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554593	GSM3554593_D7R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	7	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554594	GSM3554594_D8R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	8	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554595	GSM3554595_D8R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	8	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554596	GSM3554596_D8R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	8	3	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554597	GSM3554597_D8R4VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	8	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554598	GSM3554598_D8R5VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	8	5	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554599	GSM3554599_D9R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	9	1	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554600	GSM3554600_D9R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	9	2	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554601	GSM3554601_D9R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	9	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554602	GSM3554602_D10R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	10	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554603	GSM3554603_D10R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	10	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554604	GSM3554604_D10R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	10	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554605	GSM3554605_D11R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	11	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554606	GSM3554606_D11R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	11	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554607	GSM3554607_D11R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	11	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554608	GSM3554608_D12R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	12	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554609	GSM3554609_D12R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	12	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554610	GSM3554610_D12R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	12	3	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554611	GSM3554611_D13R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	13	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554612	GSM3554612_D13R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	13	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554613	GSM3554613_D13R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	13	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554614	GSM3554614_D14R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	14	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554615	GSM3554615_D14R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	14	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554616	GSM3554616_D14R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	14	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554617	GSM3554617_D15R1VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	15	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554618	GSM3554618_D15R2VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	15	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554619	GSM3554619_D15R3VvriAligned.counts.txt.gz	Vvri	room_temperature_deacclimation	raw_counts	15	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554620	GSM3554620_D0R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554621	GSM3554621_D0R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554622	GSM3554622_D0R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	3	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554623	GSM3554623_D0R4VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	4	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554624	GSM3554624_D0R5VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	5	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554625	GSM3554625_D0R6VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	0	6	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554626	GSM3554626_D1R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	1	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554627	GSM3554627_D1R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	1	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554628	GSM3554628_D1R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	1	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554629	GSM3554629_D1R4VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	1	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554630	GSM3554630_D2R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	2	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554631	GSM3554631_D2R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	2	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554632	GSM3554632_D2R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	2	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554633	GSM3554633_D3R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	3	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554634	GSM3554634_D3R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	3	2	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554635	GSM3554635_D3R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	3	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554636	GSM3554636_D3R4VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	3	4	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554637	GSM3554637_D4R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	4	1	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554638	GSM3554638_D4R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	4	2	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554639	GSM3554639_D4R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	4	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554640	GSM3554640_D4R4VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	4	4	fail	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554641	GSM3554641_D4R5VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	4	5	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554642	GSM3554642_D5R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	5	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554643	GSM3554643_D5R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	5	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554644	GSM3554644_D5R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	5	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554645	GSM3554645_D6R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	6	1	watch	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554646	GSM3554646_D6R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	6	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554647	GSM3554647_D6R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	6	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554648	GSM3554648_D6R4VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	6	4	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554649	GSM3554649_D7R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	7	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554650	GSM3554650_D7R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	7	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554651	GSM3554651_D7R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	7	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554652	GSM3554652_D8R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	8	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554653	GSM3554653_D8R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	8	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554654	GSM3554654_D8R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	8	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554655	GSM3554655_D9R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	9	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554656	GSM3554656_D9R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	9	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554657	GSM3554657_D9R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	9	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554658	GSM3554658_D10R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	10	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554659	GSM3554659_D10R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	10	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554660	GSM3554660_D10R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	10	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554661	GSM3554661_D11R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	11	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554662	GSM3554662_D11R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	11	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554663	GSM3554663_D11R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	11	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554664	GSM3554664_D12R1VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	12	1	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554665	GSM3554665_D12R2VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	12	2	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE124820	GSM3554666	GSM3554666_D12R3VripAligned.counts.txt.gz	Vrip	room_temperature_deacclimation	raw_counts	12	3	pass	data/processed/design_qc/GSE124820_raw_counts_design_qc.tsv
+GSE273240	GSM8424738	Deac1_0d_Control_rep1	Riesling	Control	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424739	Deac1_0d_Control_rep2	Riesling	Control	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424740	Deac1_0d_Control_rep3	Riesling	Control	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424741	Deac1_0d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424742	Deac1_0d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424743	Deac1_0d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424744	Deac1_3d_Control_rep1	Riesling	Control	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424745	Deac1_3d_Control_rep2	Riesling	Control	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424746	Deac1_3d_Control_rep3	Riesling	Control	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424747	Deac1_3d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424748	Deac1_3d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424749	Deac1_3d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424750	Deac1_5d_Control_rep1	Riesling	Control	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424751	Deac1_5d_Control_rep2	Riesling	Control	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424752	Deac1_5d_Control_rep3	Riesling	Control	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424753	Deac1_5d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424754	Deac1_5d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424755	Deac1_5d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424756	Deac1_7d_Control_rep1	Riesling	Control	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424757	Deac1_7d_Control_rep2	Riesling	Control	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424758	Deac1_7d_Control_rep3	Riesling	Control	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424759	Deac1_7d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424760	Deac1_7d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424761	Deac1_7d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424762	Deac1_14d_Control_rep1	Riesling	Control	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424763	Deac1_14d_Control_rep2	Riesling	Control	tetralone_ABA	14	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424764	Deac1_14d_Control_rep3	Riesling	Control	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424765	Deac1_14d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424766	Deac1_14d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	14	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424767	Deac1_14d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424768	Deac2_0d_Control_rep1	Riesling	Control	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424769	Deac2_0d_Control_rep2	Riesling	Control	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424770	Deac2_0d_Control_rep3	Riesling	Control	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424771	Deac2_0d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424772	Deac2_0d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424773	Deac2_0d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424774	Deac2_3d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424775	Deac2_3d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424776	Deac2_3d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424777	Deac2_3d_Control_rep1	Riesling	Control	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424778	Deac2_3d_Control_rep2	Riesling	Control	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424779	Deac2_3d_Control_rep3	Riesling	Control	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424780	Deac2_5d_Control_rep1	Riesling	Control	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424781	Deac2_5d_Control_rep2	Riesling	Control	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424782	Deac2_5d_Control_rep3	Riesling	Control	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424783	Deac2_5d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424784	Deac2_5d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424785	Deac2_5d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424786	Deac2_7d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424787	Deac2_7d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424788	Deac2_7d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424789	Deac2_7d_Control_rep1	Riesling	Control	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424790	Deac2_7d_Control_rep2	Riesling	Control	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424791	Deac2_7d_Control_rep3	Riesling	Control	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424792	Deac2_14d_Control_rep1	Riesling	Control	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424793	Deac2_14d_Control_rep2	Riesling	Control	tetralone_ABA	14	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424794	Deac2_14d_Control_rep3	Riesling	Control	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424795	Deac2_14d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424796	Deac2_14d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	14	2	watch	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424797	Deac2_14d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424798	Deac3_0d_Control_rep1	Riesling	Control	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424799	Deac3_0d_Control_rep2	Riesling	Control	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424800	Deac3_0d_Control_rep3	Riesling	Control	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424801	Deac3_0d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	0	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424802	Deac3_0d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	0	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424803	Deac3_0d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	0	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424804	Deac3_3d_Control_rep1	Riesling	Control	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424805	Deac3_3d_Control_rep2	Riesling	Control	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424806	Deac3_3d_Control_rep3	Riesling	Control	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424807	Deac3_3d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	3	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424808	Deac3_3d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	3	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424809	Deac3_3d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	3	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424810	Deac3_5d_Control_rep1	Riesling	Control	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424811	Deac3_5d_Control_rep2	Riesling	Control	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424812	Deac3_5d_Control_rep3	Riesling	Control	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424813	Deac3_5d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	5	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424814	Deac3_5d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	5	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424815	Deac3_5d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	5	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424816	Deac3_7d_Control_rep1	Riesling	Control	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424817	Deac3_7d_Control_rep2	Riesling	Control	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424818	Deac3_7d_Control_rep3	Riesling	Control	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424819	Deac3_7d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	7	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424820	Deac3_7d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	7	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424821	Deac3_7d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	7	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424822	Deac3_14d_Control_rep1	Riesling	Control	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424823	Deac3_14d_Control_rep2	Riesling	Control	tetralone_ABA	14	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424824	Deac3_14d_Control_rep3	Riesling	Control	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424825	Deac3_14d_tetralone-ABA_rep1	Riesling	tetralone-ABA	tetralone_ABA	14	1	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424826	Deac3_14d_tetralone-ABA_rep2	Riesling	tetralone-ABA	tetralone_ABA	14	2	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE273240	GSM8424827	Deac3_14d_tetralone-ABA_rep3	Riesling	tetralone-ABA	tetralone_ABA	14	3	pass	data/processed/design_qc/GSE273240_tetralone_ABA_design_qc.tsv
+GSE184114	GSM5578100	Acclimation_Control_0_1	Cabernet Franc	Control	Acclimation	0	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578101	Acclimation_Control_0_2	Cabernet Franc	Control	Acclimation	0	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578102	Acclimation_Control_0_3	Cabernet Franc	Control	Acclimation	0	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578103	Acclimation_Control_0_4	Cabernet Franc	Control	Acclimation	0	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578104	Acclimation_Control_0_1	Cabernet Franc	Control	Acclimation	0	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578105	Acclimation_Control_0_2	Cabernet Franc	Control	Acclimation	0	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578106	Acclimation_Control_0_3	Cabernet Franc	Control	Acclimation	0	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578107	Acclimation_Control_0_4	Cabernet Franc	Control	Acclimation	0	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578108	Acclimation_Control_2_2	Cabernet Franc	Control	Acclimation	2	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578109	Acclimation_Control_2_3	Cabernet Franc	Control	Acclimation	2	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578110	Acclimation_Control_2_4	Cabernet Franc	Control	Acclimation	2	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578111	Acclimation_ABA_2_1	Cabernet Franc	ABA	Acclimation	2	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578112	Acclimation_ABA_2_2	Cabernet Franc	ABA	Acclimation	2	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578113	Acclimation_ABA_2_3	Cabernet Franc	ABA	Acclimation	2	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578114	Acclimation_ABA_2_4	Cabernet Franc	ABA	Acclimation	2	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578115	Acclimation_Control_4_1	Cabernet Franc	Control	Acclimation	4	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578116	Acclimation_Control_4_2	Cabernet Franc	Control	Acclimation	4	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578117	Acclimation_Control_4_3	Cabernet Franc	Control	Acclimation	4	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578118	Acclimation_Control_4_4	Cabernet Franc	Control	Acclimation	4	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578119	Acclimation_ABA_4_1	Cabernet Franc	ABA	Acclimation	4	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578120	Acclimation_ABA_4_2	Cabernet Franc	ABA	Acclimation	4	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578121	Acclimation_ABA_4_3	Cabernet Franc	ABA	Acclimation	4	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578122	Acclimation_ABA_4_4	Cabernet Franc	ABA	Acclimation	4	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578123	Acclimation_Control_24_1	Cabernet Franc	Control	Acclimation	24	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578124	Acclimation_Control_24_2	Cabernet Franc	Control	Acclimation	24	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578125	Acclimation_Control_24_3	Cabernet Franc	Control	Acclimation	24	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578126	Acclimation_Control_24_4	Cabernet Franc	Control	Acclimation	24	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578127	Acclimation_ABA_24_2	Cabernet Franc	ABA	Acclimation	24	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578128	Acclimation_ABA_24_3	Cabernet Franc	ABA	Acclimation	24	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578129	Acclimation_ABA_24_4	Cabernet Franc	ABA	Acclimation	24	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578130	Acclimation_Control_48_1	Cabernet Franc	Control	Acclimation	48	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578131	Acclimation_Control_48_2	Cabernet Franc	Control	Acclimation	48	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578132	Acclimation_Control_48_3	Cabernet Franc	Control	Acclimation	48	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578133	Acclimation_Control_48_4	Cabernet Franc	Control	Acclimation	48	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578134	Acclimation_ABA_48_1	Cabernet Franc	ABA	Acclimation	48	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578135	Acclimation_ABA_48_2	Cabernet Franc	ABA	Acclimation	48	2	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578136	Acclimation_Control_2_1	Cabernet Franc	Control	Acclimation	2	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578137	Acclimation_ABA_24_1	Cabernet Franc	ABA	Acclimation	24	1	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578138	Acclimation_ABA_48_3	Cabernet Franc	ABA	Acclimation	48	3	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578139	Acclimation_ABA_48_4	Cabernet Franc	ABA	Acclimation	48	4	pass	data/processed/design_qc/GSE184114_Acclimation_design_qc.tsv
+GSE184114	GSM5578066	Deacclimation_ABA_12_1	Cabernet Franc	ABA	Deacclimation	12	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578067	Deacclimation_ABA_12_2	Cabernet Franc	ABA	Deacclimation	12	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578068	Deacclimation_ABA_12_3	Cabernet Franc	ABA	Deacclimation	12	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578069	Deacclimation_ABA_24_1	Cabernet Franc	ABA	Deacclimation	24	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578070	Deacclimation_ABA_24_2	Cabernet Franc	ABA	Deacclimation	24	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578071	Deacclimation_ABA_24_3	Cabernet Franc	ABA	Deacclimation	24	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578072	Deacclimation_ABA_48_1	Cabernet Franc	ABA	Deacclimation	48	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578073	Deacclimation_ABA_48_2	Cabernet Franc	ABA	Deacclimation	48	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578074	Deacclimation_ABA_48_3	Cabernet Franc	ABA	Deacclimation	48	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578075	Deacclimation_ABA_6_1	Cabernet Franc	ABA	Deacclimation	6	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578076	Deacclimation_ABA_6_2	Cabernet Franc	ABA	Deacclimation	6	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578077	Deacclimation_ABA_6_3	Cabernet Franc	ABA	Deacclimation	6	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578078	Deacclimation_ABA_72_1	Cabernet Franc	ABA	Deacclimation	72	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578079	Deacclimation_ABA_72_2	Cabernet Franc	ABA	Deacclimation	72	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578080	Deacclimation_ABA_72_3	Cabernet Franc	ABA	Deacclimation	72	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578081	Deacclimation_Control_0_1	Cabernet Franc	Control	Deacclimation	0	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578082	Deacclimation_Control_0_2	Cabernet Franc	Control	Deacclimation	0	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578083	Deacclimation_Control_0_3	Cabernet Franc	Control	Deacclimation	0	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578084	Deacclimation_Control_12_1	Cabernet Franc	Control	Deacclimation	12	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578085	Deacclimation_Control_12_2	Cabernet Franc	Control	Deacclimation	12	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578086	Deacclimation_Control_12_3	Cabernet Franc	Control	Deacclimation	12	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578087	Deacclimation_Control_24_1	Cabernet Franc	Control	Deacclimation	24	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578088	Deacclimation_Control_24_2	Cabernet Franc	Control	Deacclimation	24	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578089	Deacclimation_Control_24_3	Cabernet Franc	Control	Deacclimation	24	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578090	Deacclimation_Control_48_1	Cabernet Franc	Control	Deacclimation	48	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578091	Deacclimation_Control_48_2	Cabernet Franc	Control	Deacclimation	48	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578092	Deacclimation_Control_48_3	Cabernet Franc	Control	Deacclimation	48	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578093	Deacclimation_Control_48_4	Cabernet Franc	Control	Deacclimation	48	4	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578094	Deacclimation_Control_6_1	Cabernet Franc	Control	Deacclimation	6	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578095	Deacclimation_Control_6_2	Cabernet Franc	Control	Deacclimation	6	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578096	Deacclimation_Control_6_3	Cabernet Franc	Control	Deacclimation	6	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578097	Deacclimation_Control_72_1	Cabernet Franc	Control	Deacclimation	72	1	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578098	Deacclimation_Control_72_2	Cabernet Franc	Control	Deacclimation	72	2	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE184114	GSM5578099	Deacclimation_Control_72_3	Cabernet Franc	Control	Deacclimation	72	3	pass	data/processed/design_qc/GSE184114_Deacclimation_design_qc.tsv
+GSE277812	GSM8531081	T1_2_1	Merlot	node_2	raw_counts	BBCH63	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531082	T1_2_2	Merlot	node_2	raw_counts	BBCH63	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531083	T1_2_3	Merlot	node_2	raw_counts	BBCH63	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531084	T1_5_1	Merlot	node_5	raw_counts	BBCH63	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531085	T1_5_2	Merlot	node_5	raw_counts	BBCH63	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531086	T1_5_3	Merlot	node_5	raw_counts	BBCH63	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531087	T1_10_1	Merlot	node_10	raw_counts	BBCH63	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531088	T1_10_2	Merlot	node_10	raw_counts	BBCH63	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531089	T1_10_3	Merlot	node_10	raw_counts	BBCH63	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531090	T2_2_1	Merlot	node_2	raw_counts	BBCH77	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531091	T2_2_2	Merlot	node_2	raw_counts	BBCH77	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531092	T2_2_3	Merlot	node_2	raw_counts	BBCH77	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531093	T2_5_1	Merlot	node_5	raw_counts	BBCH77	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531094	T2_5_2	Merlot	node_5	raw_counts	BBCH77	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531095	T2_5_3	Merlot	node_5	raw_counts	BBCH77	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531096	T2_10_1	Merlot	node_10	raw_counts	BBCH77	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531097	T2_10_2	Merlot	node_10	raw_counts	BBCH77	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531098	T2_10_3	Merlot	node_10	raw_counts	BBCH77	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531099	T3_2_1	Merlot	node_2	raw_counts	BBCH90	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531100	T3_2_2	Merlot	node_2	raw_counts	BBCH90	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531101	T3_2_3	Merlot	node_2	raw_counts	BBCH90	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531102	T3_5_1	Merlot	node_5	raw_counts	BBCH90	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531103	T3_5_2	Merlot	node_5	raw_counts	BBCH90	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531104	T3_5_3	Merlot	node_5	raw_counts	BBCH90	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531105	T3_10_1	Merlot	node_10	raw_counts	BBCH90	1	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531106	T3_10_2	Merlot	node_10	raw_counts	BBCH90	2	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE277812	GSM8531107	T3_10_3	Merlot	node_10	raw_counts	BBCH90	3	pass	data/processed/design_qc/GSE277812_raw_counts_design_qc.tsv
+GSE337039	SRR39326568	12685_5751_144711_HW3JMBGXJ_NSF023_F06_11_20_18_TWB1_C_CTCCAT_R1	Brianna	Controlled_4C	raw_FASTQ	0	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326567	12685_5751_144712_HW3JMBGXJ_NSF023_G06_11_20_18_TWB2_C_GCATGG_R1	Brianna	Controlled_4C	raw_FASTQ	0	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326566	12685_5751_144713_HW3JMBGXJ_NSF023_H06_11_20_18_TWB3_C_AATAGC_R1	Brianna	Controlled_4C	raw_FASTQ	0	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326565	12685_5751_144714_HW3JMBGXJ_NSF023_A07_12_28_18_TWB1_C_GTGCCA_R1	Brianna	Controlled_4C	raw_FASTQ	1	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326564	12685_5751_144715_HW3JMBGXJ_NSF023_B07_12_28_18_TWB2_C_TCGAGG_R1	Brianna	Controlled_4C	raw_FASTQ	1	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326562	12685_5751_144716_HW3JMBGXJ_NSF023_C07_12_28_18_TWB3_C_CACTAA_R1	Brianna	Controlled_4C	raw_FASTQ	1	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326561	12685_5751_144717_HW3JMBGXJ_NSF023_D07_1_13_19_TWB1_C_GGTATA_R1	Brianna	Controlled_4C	raw_FASTQ	2	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326560	12685_5751_144718_HW3JMBGXJ_NSF023_E07_1_13_19_TWB2_C_CGCCTG_R1	Brianna	Controlled_4C	raw_FASTQ	2	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326559	12685_5751_144719_HW3JMBGXJ_NSF023_F07_1_13_19_TWB3_C_AATGAA_R1	Brianna	Controlled_4C	raw_FASTQ	2	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326558	12685_5751_144720_HW3JMBGXJ_NSF023_G07_2_12_19_TWB1_C_ACAACG_R1	Brianna	Controlled_4C	raw_FASTQ	3	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326557	12685_5751_144721_HW3JMBGXJ_NSF023_H07_2_12_19_TWB2_C_ATATCC_R1	Brianna	Controlled_4C	raw_FASTQ	3	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326556	12685_5751_144722_HW3JMBGXJ_NSF023_A08_2_12_19_TWB3_C_AGTACT_R1	Brianna	Controlled_4C	raw_FASTQ	3	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326555	12685_5751_144723_HW3JMBGXJ_NSF023_B08_3_4_19_TWB1_C_ATAAGA_R1	Brianna	Controlled_4C	raw_FASTQ	4	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326554	12685_5751_144724_HW3JMBGXJ_NSF023_C08_3_4_19_TWB2_C_GGTGAG_R1	Brianna	Controlled_4C	raw_FASTQ	4	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326553	12685_5751_144725_HW3JMBGXJ_NSF023_D08_3_4_19_TWB3_C_TTCCGC_R1	Brianna	Controlled_4C	raw_FASTQ	4	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326584	12685_5751_144696_HW3JMBGXJ_NSF023_G04_11_20_18_TWB1_F_ACCTAC_R1	Brianna	Natural	raw_FASTQ	0	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326583	12685_5751_144697_HW3JMBGXJ_NSF023_H04_11_20_18_TWB2_F_CGAAGG_R1	Brianna	Natural	raw_FASTQ	0	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326582	12685_5751_144698_HW3JMBGXJ_NSF023_A05_11_20_18_TWB3_F_AGATAG_R1	Brianna	Natural	raw_FASTQ	0	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326581	12685_5751_144699_HW3JMBGXJ_NSF023_B05_12_27_18_TWB1_F_TTGGTA_R1	Brianna	Natural	raw_FASTQ	1	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326580	12685_5751_144700_HW3JMBGXJ_NSF023_C05_12_27_18_TWB2_F_GTTACC_R1	Brianna	Natural	raw_FASTQ	1	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326579	12685_5751_144701_HW3JMBGXJ_NSF023_D05_12_27_18_TWB3_F_CGCAAC_R1	Brianna	Natural	raw_FASTQ	1	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326578	12685_5751_144702_HW3JMBGXJ_NSF023_E05_1_13_19_TWB1_F_TGGCGA_R1	Brianna	Natural	raw_FASTQ	2	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326577	12685_5751_144703_HW3JMBGXJ_NSF023_F05_1_13_19_TWB2_F_ACCGTG_R1	Brianna	Natural	raw_FASTQ	2	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326576	12685_5751_144704_HW3JMBGXJ_NSF023_G05_1_13_19_TWB3_F_CAACAG_R1	Brianna	Natural	raw_FASTQ	2	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326575	12685_5751_144705_HW3JMBGXJ_NSF023_H05_2_12_19_TWB1_F_GATTGT_R1	Brianna	Natural	raw_FASTQ	3	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326573	12685_5751_144706_HW3JMBGXJ_NSF023_A06_2_12_19_TWB2_F_CTCTCG_R1	Brianna	Natural	raw_FASTQ	3	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326572	12685_5751_144707_HW3JMBGXJ_NSF023_B06_2_12_19_TWB3_F_TGACAC_R1	Brianna	Natural	raw_FASTQ	3	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326571	12685_5751_144708_HW3JMBGXJ_NSF023_C06_3_4_19_TWB1_F_AAGACA_R1	Brianna	Natural	raw_FASTQ	4	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326570	12685_5751_144709_HW3JMBGXJ_NSF023_D06_3_4_19_TWB2_F_ACAGAT_R1	Brianna	Natural	raw_FASTQ	4	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326569	12685_5751_144710_HW3JMBGXJ_NSF023_E06_3_4_19_TWB3_F_TAGGCT_R1	Brianna	Natural	raw_FASTQ	4	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326601	12685_5751_144681_HW3JMBGXJ_NSF023_H02_11_20_18_TWM1_C_TACCTT_R1	Marquette	Controlled_4C	raw_FASTQ	0	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326600	12685_5751_144682_HW3JMBGXJ_NSF023_A03_11_20_18_TWM2_C_TCTTAA_R1	Marquette	Controlled_4C	raw_FASTQ	0	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326599	12685_5751_144683_HW3JMBGXJ_NSF023_B03_11_20_18_TWM3_C_GTCAGG_R1	Marquette	Controlled_4C	raw_FASTQ	0	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326598	12685_5751_144684_HW3JMBGXJ_NSF023_C03_12_28_18_TWM1_C_ATACTG_R1	Marquette	Controlled_4C	raw_FASTQ	1	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326597	12685_5751_144685_HW3JMBGXJ_NSF023_D03_12_28_18_TWM2_C_TATGTC_R1	Marquette	Controlled_4C	raw_FASTQ	1	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326595	12685_5751_144686_HW3JMBGXJ_NSF023_E03_12_28_18_TWM3_C_GAGTCC_R1	Marquette	Controlled_4C	raw_FASTQ	1	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326594	12685_5751_144687_HW3JMBGXJ_NSF023_F03_1_12_19_TWM1_C_GGAGGT_R1	Marquette	Controlled_4C	raw_FASTQ	2	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326593	12685_5751_144688_HW3JMBGXJ_NSF023_G03_1_12_19_TWM2_C_CACACT_R1	Marquette	Controlled_4C	raw_FASTQ	2	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326592	12685_5751_144689_HW3JMBGXJ_NSF023_H03_1_12_19_TWM3_C_CCGCAA_R1	Marquette	Controlled_4C	raw_FASTQ	2	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326591	12685_5751_144690_HW3JMBGXJ_NSF023_A04_2_12_19_TWM1_C_TTTATG_R1	Marquette	Controlled_4C	raw_FASTQ	3	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326590	12685_5751_144691_HW3JMBGXJ_NSF023_B04_2_12_19_TWM2_C_AACGCC_R1	Marquette	Controlled_4C	raw_FASTQ	3	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326589	12685_5751_144692_HW3JMBGXJ_NSF023_C04_2_12_19_TWM3_C_CAAGCA_R1	Marquette	Controlled_4C	raw_FASTQ	3	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326588	12685_5751_144693_HW3JMBGXJ_NSF023_D04_3_4_19_TWM1_C_GCTCGA_R1	Marquette	Controlled_4C	raw_FASTQ	4	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326587	12685_5751_144694_HW3JMBGXJ_NSF023_E04_3_4_19_TWM2_C_GCGAAT_R1	Marquette	Controlled_4C	raw_FASTQ	4	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326586	12685_5751_144695_HW3JMBGXJ_NSF023_F04_3_4_19_TWM3_C_TGGATT_R1	Marquette	Controlled_4C	raw_FASTQ	4	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326608	12685_5751_144666_HW3JMBGXJ_NSF023_A01_11_20_18_TWM1_F_CAGCGT_R1	Marquette	Natural	raw_FASTQ	0	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326607	12685_5751_144667_HW3JMBGXJ_NSF023_B01_11_20_18_TWM2_F_GATCAC_R1	Marquette	Natural	raw_FASTQ	0	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326596	12685_5751_144668_HW3JMBGXJ_NSF023_C01_11_20_18_TWM3_F_ACCAGT_R1	Marquette	Natural	raw_FASTQ	0	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326585	12685_5751_144669_HW3JMBGXJ_NSF023_D01_12_27_18_TWM1_F_TGCACG_R1	Marquette	Natural	raw_FASTQ	1	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326574	12685_5751_144670_HW3JMBGXJ_NSF023_E01_12_27_18_TWM2_F_ACATTA_R1	Marquette	Natural	raw_FASTQ	1	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326563	12685_5751_144671_HW3JMBGXJ_NSF023_F01_12_27_18_TWM3_F_GTGTAG_R1	Marquette	Natural	raw_FASTQ	1	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326552	12685_5751_144672_HW3JMBGXJ_NSF023_G01_1_12_19_TWM1_F_CTAGTC_R1	Marquette	Natural	raw_FASTQ	2	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326551	12685_5751_144673_HW3JMBGXJ_NSF023_H01_1_12_19_TWM2_F_TGTGCA_R1	Marquette	Natural	raw_FASTQ	2	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326550	12685_5751_144674_HW3JMBGXJ_NSF023_A02_1_12_19_TWM3_F_TCAGGA_R1	Marquette	Natural	raw_FASTQ	2	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326549	12685_5751_144675_HW3JMBGXJ_NSF023_B02_2_12_19_TWM1_F_CGGTTA_R1	Marquette	Natural	raw_FASTQ	3	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326606	12685_5751_144676_HW3JMBGXJ_NSF023_C02_2_12_19_TWM2_F_TTAACT_R1	Marquette	Natural	raw_FASTQ	3	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326605	12685_5751_144677_HW3JMBGXJ_NSF023_D02_2_12_19_TWM3_F_ATGAAC_R1	Marquette	Natural	raw_FASTQ	3	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326604	12685_5751_144678_HW3JMBGXJ_NSF023_E02_3_4_19_TWM1_F_CCTAAG_R1	Marquette	Natural	raw_FASTQ	4	1	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326603	12685_5751_144679_HW3JMBGXJ_NSF023_F02_3_4_19_TWM2_F_AATCCG_R1	Marquette	Natural	raw_FASTQ	4	2	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv
+GSE337039	SRR39326602	12685_5751_144680_HW3JMBGXJ_NSF023_G02_3_4_19_TWM3_F_GGCTGC_R1	Marquette	Natural	raw_FASTQ	4	3	NOT_RECLASSIFIED	grape_dormancy_advanced/data/metadata/GSE337039_sample_manifest.tsv

@@ -1,0 +1,5 @@
+software	version	stage	evidence	notes
+fastp	0.24.3	GSE337039 raw validation	Preserved version/header evidence	Recorded software version
+STAR	2.7.11b	GSE337039 raw validation	Preserved version/header evidence	Recorded software version
+featureCounts	2.0.8	GSE337039 raw validation	Preserved version/header evidence	featureCounts version confirmed from per-run forward-count header
+samtools	1.21	GSE337039 raw validation	Preserved version/header evidence	Recorded software version

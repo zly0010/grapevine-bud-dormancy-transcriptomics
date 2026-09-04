@@ -1,0 +1,4 @@
+file	sha256	role	notes
+metadata/validation/02_tf_id_bridge.tsv	4545a1c8c7c46faee861d282bc80538eaf7bb51773cad2f34b124be7ba4a1415	TF identity/family only	Historical motif-derived/cross-species regulatory edges are excluded from final evidence
+metadata/validation/list_genes_vitis_correspondencesV3_1-2.tsv	535fadb48a518d3c04dfcfe54cd40a28da3d67ee9c08c303c31f73ebe453aec7	Gene identifier/reference mapping	Use retained frozen mapping bytes
+metadata/validation/refseq_to_vitvi_mapping.tsv	6c5ec37ce703282f4e5f4750100df69ece5bedc905cde6aec3144849dea6e880	Gene identifier/reference mapping	Use retained frozen mapping bytes

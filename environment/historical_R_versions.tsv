@@ -1,0 +1,13 @@
+software	version	stage	evidence_level	notes
+R	4.4.1	formal_main_WGCNA	DIRECT_HIGH	Runtime banner; main package version not recorded
+DESeq2	1.46.0	dataset_specific_DESeq2	DIRECT_HIGH	Preserved sessionInfo
+apeglm	1.28.0	dataset_specific_DESeq2	DIRECT_HIGH	Preserved sessionInfo
+ashr	2.2-63	dataset_specific_DESeq2	DIRECT_HIGH	Preserved sessionInfo
+pheatmap	1.0.13	dataset_specific_DESeq2	DIRECT_HIGH	Preserved sessionInfo
+irlba	2.3.7	dataset_specific_DESeq2_and_stability	DIRECT_HIGH	Preserved sessionInfo
+car	3.1-3	module_eigengene_interaction	DIRECT_HIGH	Preserved sessionInfo
+R	4.4.1	stability_analysis	DIRECT_HIGH	Preserved sessionInfo
+WGCNA	1.74	stability_analysis	DIRECT_HIGH	Confirmed for stability-analysis stage; formal main WGCNA package version not directly recovered
+WGCNA	UNKNOWN	formal_main_WGCNA	NOT_RECOVERED	No direct main-run package version
+readr	UNKNOWN	historical_analysis	NOT_RECOVERED	Not recovered
+tidyverse	UNKNOWN	historical_analysis	NOT_RECOVERED	Not recovered

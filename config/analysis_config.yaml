@@ -1,0 +1,83 @@
+release_version: "0.1.0-rc2"
+scientific_status: "frozen"
+config_role: "audited_catalog_not_automatically_consumed_by_legacy_scripts"
+centralization_status: "CONFIG_NOT_CENTRALIZED"
+paths:
+  base_project: "."
+  legacy_project: "data/legacy"
+  advanced_project: "outputs/advanced"
+  raw_processing_work: "data/gse337039_raw_work"
+  method_revision_results: "outputs/method_revision_v2/results_v2"
+  figure_sources: "figure_source_data"
+datasets: [GSE124820, GSE273240, GSE184114, GSE277812, GSE337039]
+qc_gse124820:
+  # scripts/base_pipeline/07_qc_flags_and_plots.py:31-37; fail overrides watch.
+  fail_library_fraction: 0.25
+  fail_detected_fraction: 0.70
+  watch_library_fraction: 0.50
+  watch_detected_fraction: 0.85
+  QC_B: [pass, watch]
+  QC_C: [pass]
+wgcna:
+  # wgcna_r_fixed.R computes power; historical power_status files report 12 and 16.
+  top_variable_genes: 5000
+  adjacency: signed
+  TOM: signed
+  min_module_size: 30
+  merge_height: 0.25
+  observed_GSE124820_power: 12
+  observed_GSE273240_power: 16
+  power_selection_is_dynamic: true
+  search_range: "1:30"
+  GSE124820_tolerance: 0.80
+  GSE273240_tolerance: 0.699
+  modulePreservation_permutations: 200
+  modulePreservation_seed: null # UNKNOWN / NOT RECORDED; no explicit external seed recovered
+resampling:
+  stratified_resamples: 100
+  seed: 20260718
+external_validation_final:
+  script: "scripts/method_revision_v2/15_whole_module_validation_v2.py"
+  random_set_B: 10000
+  seed: 20260718
+  empirical_p: "(b + 1)/(B + 1)"
+  stouffer_weight: "sqrt(effective_sample_size)"
+go:
+  ensembl_plants_release: 62
+  mapping_assembly: "ASM3070453v1"
+  uniprot_organism: 29760
+  frozen_query_date: "2026-07-16"
+  evidence: "GO_annotation_audit_v2.csv and original mapping scripts; original remote response bundle incomplete"
+gse337039:
+  layout: SINGLE
+  read_length_bp: 86
+  samples: 60
+  reference: GCF_000003745.3
+  reference_name: "NCBI Vitis vinifera 12X"
+  fastp: "0.24.3"
+  STAR: "2.7.11b"
+  featureCounts: "2.0.8"
+  featureCounts_strand: 1
+  fastp_qualified_quality_phred: 20
+  fastp_unqualified_percent_limit: 40
+  fastp_length_required: 30
+  STAR_sjdbOverhang: 85
+dynamic_network:
+  # Frozen RUN_INFO.json records these outputs and execution settings.
+  observed_genes: 282
+  observed_TFs: 49
+  observed_centroids: 57
+  observed_transitions: 53
+  trees_per_target: 60
+  forest_seeds: [1, 2, 3]
+  cv_trees: 30
+  module_label_permutations: 2000
+  target_per_module_cli: null # original command is not recorded in RUN_INFO; do not infer from the default
+  script_default_target_per_module: 160 # code default, not a recovered historical invocation
+  script_default_trees: 100 # historical code default; not a complete replay command
+  script_default_permutations: 1000 # historical code default; not a complete replay command
+  permutation_seed: 20260806
+  complete_historical_CLI: "NOT RECOVERED"
+  historical_cwd_wrapper: "NOT RECOVERED"
+  final_perturbation_combinations: 20
+  final_perturbation_TFs: 11

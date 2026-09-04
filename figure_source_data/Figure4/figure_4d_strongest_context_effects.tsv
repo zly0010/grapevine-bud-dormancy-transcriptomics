@@ -1,0 +1,9 @@
+dataset	analysis_family	module_color	effect	df	f_value	p_value	partial_eta_squared	fdr	effect_short
+GSE184114	Deacclimation_within_tissue_arm	blue	C(treatment, Sum)	1	9374.64292374566	2.53326192679721e-29	0.99776492144599	5.57317623895385e-28	condition
+GSE184114	Deacclimation_within_tissue_arm	turquoise	C(treatment, Sum)	1	12431.044665837	1.31604997174288e-30	0.998313529981336	8.68592981350299e-29	condition
+GSE273240	ABA_deacclimation	blue	C(deac_phase, Sum)	2	100.090429413613	7.6962155775951e-20	0.769391183231342	5.64389142356974e-19	condition
+GSE273240	ABA_deacclimation	turquoise	C(deac_phase, Sum)	2	179.85072596559	4.5323491942381e-26	0.857041237946829	7.47837617049286e-25	condition
+GSE277812	stage_node	blue	C(stage_factor, Sum)	2	12.4851448632503	0.000397134858272084	0.581105919588458	0.000770908842528163	design effect
+GSE277812	stage_node	turquoise	C(stage_factor, Sum)	2	22.2348519511643	1.36907587868404e-05	0.711860327877606	3.0119669331049e-05	design effect
+GSE337039	Brianna_chilling_time_course	blue	C(condition, Sum):C(time_index, Sum)	4	119.855551231735	1.1243677597339e-13	0.959953722916814	5.30059086731698e-13	interaction
+GSE337039	Brianna_chilling_time_course	turquoise	C(condition, Sum):C(time_index, Sum)	4	71.883843468514	1.40047582511341e-11	0.934966830813451	5.43714143867561e-11	interaction

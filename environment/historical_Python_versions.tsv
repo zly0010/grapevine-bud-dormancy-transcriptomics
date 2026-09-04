@@ -1,0 +1,14 @@
+software	version	stage	evidence_level	notes
+Python	3.14.4	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+numpy	2.4.4	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+pandas	3.0.2	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+statsmodels	0.14.6	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+scipy	1.17.1	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+matplotlib	3.10.9	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+seaborn	0.13.2	Early OpenScience stage	DIRECT_HIGH	Historical agent environment capture; no session content redistributed
+Python	3.14.4	Dynamic-network frozen stage	DIRECT_HIGH	RUN_INFO software
+numpy	2.5.1	Dynamic-network frozen stage	DIRECT_HIGH	RUN_INFO software
+pandas	3.0.2	Dynamic-network frozen stage	DIRECT_HIGH	RUN_INFO software
+scikit-learn	1.8.0	Dynamic-network frozen stage	DIRECT_HIGH	Serialization metadata of the three saved forest estimators only
+statsmodels	UNKNOWN	Dynamic-network frozen stage	NOT_RECOVERED	No version recorded for this exact dynamic process
+scipy	UNKNOWN	Dynamic-network frozen stage	NOT_RECOVERED	No version recorded for this exact dynamic process

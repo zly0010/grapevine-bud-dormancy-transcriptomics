@@ -1,0 +1,4 @@
+module_color	leave_one_variety_runs	minimum_jaccard	median_jaccard	minimum_recovery_fraction	all_runs_jaccard_ge_0_5	all_runs_fdr_lt_0_05
+blue	4	0.723495702005731	0.772486880880944	0.903349282296651	TRUE	TRUE
+brown	4	0.277958740499457	0.427002285547559	0.376470588235294	FALSE	TRUE
+turquoise	4	0.919521912350598	0.927428932820227	0.943849121303043	TRUE	TRUE

@@ -1,0 +1,4 @@
+mapping	source	target	file	method	limitation
+RefSeq to Vitvi	GCF_000003745.3 gene counts	Vitvi/VCost.v3	metadata/validation/refseq_to_vitvi_mapping.tsv	scripts/extended_pipeline/03a_build_refseq_vitvi_mapping.py	Preserve supplied mapping; do not regenerate with a newer reference
+Vitvi to Ensembl	Vitvi	Ensembl Plants release 62 identifiers	data/legacy/results_corrected/06_gene_annotation/vitvi_to_ensembl_mapping.tsv	scripts/legacy_discovery_pipeline/build_vitvi_vit_mapping.py	Some original downloaded mapping inputs not present in candidate
+Gene to GO	UniProtKB organism 29760	GO	data/legacy/results_corrected/06_gene_annotation/grape_go_annotation.tsv	scripts/legacy_discovery_pipeline/build_vitvi_go_mapping.py	Frozen query date 2026-07-16; do not substitute a current API response
